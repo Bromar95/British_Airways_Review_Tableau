@@ -96,7 +96,7 @@ This project helped me learn parameters, data relationships, and dashboard desig
 
 ## 🔗 Related Link
 
-<!-- EDIT: add the LinkedIn post link after publishing -->
+https://www.linkedin.com/feed/update/urn:li:share:7514086851704463360/
 
 ## 🧑‍💻 Author
 
